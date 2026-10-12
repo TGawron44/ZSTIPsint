@@ -1,0 +1,37 @@
+:root{
+    font-size: 12px;
+}
+
+
+body{
+
+    background-color: blue !important;
+    color:rgb(118, 173, 221);
+}
+    a{
+color:yellow
+    }
+
+    header{
+        border: 2px solid brown;
+    }
+
+header p {
+    color:darkslategray
+}
+p{
+    color: chocolate;
+    font-size: 18px;
+}
+main{
+    background-color: blueviolet; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*paragraf_wiekszy{
+    font-size: 24px;
+    color:darksalmon
+}
+.paragraf_wiekszy{
+    font-size: 2rem;
+}*/
