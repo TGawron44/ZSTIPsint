@@ -1,7 +1,9 @@
 :root{
     font-size: 20px;
+    box-sizing:border-box;
     a {
     text-decoration: none;
+   
 }
 }
 
@@ -55,30 +57,153 @@ nav ul{
 .decimal{
     list-style-type: decimal;
 }
-.decimal-leading-zero{
-    list-style-type: decimal-leading-zero;
+.lisc{
+    list-style-image: url(punktor.jpg.jpg)
 }
-.lower-alpha{
-    list-style-type: lower-alpha;
-}
-.upper-alpha{
-    list-style-type: upper-alpha;
-}
-.lower-roman{
-    list-style-type: lower-roman;
-}
-.upper-roman{
-    list-style-type: upper-roman;
-}
-.armenian{
-    list-style-type: armenian;
-}
-.hebrew{
-    list-style-type: hebrew;
-}
-.cjk-decimal{
+.cjk-decimal {
     list-style-type: cjk-decimal;
 }
-.thai{
+.decimal-leading-zero {
+    list-style-type: decimal-leading-zero;
+}
+.lower-roman {
+    list-style-type: lower-roman;
+}
+.upper-roman {
+    list-style-type: upper-roman;
+}
+.lower-greek {
+    list-style-type: lower-greek;
+}
+.lower-alpha {
+    list-style-type: lower-alpha;
+}
+.lower-latin {
+    list-style-type: lower-latin;
+}
+.upper-alpha {
+    list-style-type: upper-alpha;
+}
+.upper-latin {
+    list-style-type: upper-latin;
+}
+.arabic-indic {
+    list-style-type: arabic-indic;
+}
+.armenian {
+    list-style-type: armenian;
+}
+.bengali {
+    list-style-type: bengali;
+}
+.cambodian {
+    list-style-type: cambodian;
+}
+.khmer {
+    list-style-type: khmer;
+}
+.cjk-earthly-branch {
+    list-style-type: cjk-earthly-branch;
+}
+.cjk-heavenly-stem {
+    list-style-type: cjk-heavenly-stem;
+}
+.cjk-ideographic {
+    list-style-type: cjk-ideographic;
+}
+.devanagari {
+    list-style-type: devanagari;
+}
+.ethiopic-numeric {
+    list-style-type: ethiopic-numeric;
+}
+.georgian {
+    list-style-type: georgian;
+}
+.gujarati {
+    list-style-type: gujarati;
+}
+.gurmukhi {
+    list-style-type: gurmukhi;
+}
+.hebrew {
+    list-style-type: hebrew;
+}
+.hiragana {
+    list-style-type: hiragana;
+}
+.hiragana-iroha {
+    list-style-type: hiragana-iroha;
+}
+.japanese-formal {
+    list-style-type: japanese-formal;
+}
+.japanese-informal {
+    list-style-type: japanese-informal;
+}
+.kannada {
+    list-style-type: kannada;
+}
+.katakana {
+    list-style-type: katakana;
+}
+.katakana-iroha {
+    list-style-type: katakana-iroha;
+}
+.korean-hangul-formal {
+    list-style-type: korean-hangul-formal;
+}
+.korean-hanja-formal {
+    list-style-type: korean-hanja-formal;
+}
+.korean-hanja-informal {
+    list-style-type: korean-hanja-informal;
+}
+.lao {
+    list-style-type: lao;
+}
+.lower-armenian {
+    list-style-type: lower-armenian;
+}
+.malayalam {
+    list-style-type: malayalam;
+}
+.mongolian {
+    list-style-type: mongolian;
+}
+.myanmar {
+    list-style-type: myanmar;
+}
+.oriya {
+    list-style-type: oriya;
+}
+.persian {
+    list-style-type: persian;
+}
+.simp-chinese-formal {
+    list-style-type: simp-chinese-formal;
+}
+.simp-chinese-informal {
+    list-style-type: simp-chinese-informal;
+}
+.tamil {
+    list-style-type: tamil;
+}
+.telugu {
+    list-style-type: telugu;
+}
+.thai {
     list-style-type: thai;
+}
+.tibetan {
+    list-style-type: tibetan;
+}
+.trad-chinese-formal {
+    list-style-type: trad-chinese-formal;
+}
+.trad-chinese-informal {
+    list-style-type: trad-chinese-informal;
+}
+.upper-armenian {
+    list-style-type: upper-armenian;
 }
